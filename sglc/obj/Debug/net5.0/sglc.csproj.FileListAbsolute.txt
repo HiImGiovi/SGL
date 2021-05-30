@@ -1,0 +1,16 @@
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\sglc.exe
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\sglc.deps.json
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\sglc.runtimeconfig.json
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\sglc.runtimeconfig.dev.json
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\sglc.dll
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\ref\sglc.dll
+D:\Progetti\SGL\sglc\bin\Debug\net5.0\sglc.pdb
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.csprojAssemblyReference.cache
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.AssemblyInfoInputs.cache
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.AssemblyInfo.cs
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.csproj.CoreCompileInputs.cache
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.dll
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\ref\sglc.dll
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.pdb
+D:\Progetti\SGL\sglc\obj\Debug\net5.0\sglc.genruntimeconfig.cache
